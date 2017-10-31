@@ -5,3 +5,4 @@ Git tracks changes of files.
 Creating a new branch is quick & simple.
 Modify/Updating a new line at branch feature1.
 No fast forward.
+Add a new line.
